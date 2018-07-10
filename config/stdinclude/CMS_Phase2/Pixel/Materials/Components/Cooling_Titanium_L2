@@ -6,7 +6,7 @@ Component {
   scaleOnSensor 0
   Element {
     elementName Ti_L2 
-    quantity 3.31
+    quantity 4.0
     unit g/m
   }
   Element {
