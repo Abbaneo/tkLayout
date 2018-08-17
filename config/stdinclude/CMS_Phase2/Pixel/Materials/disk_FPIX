@@ -2,6 +2,8 @@
 // Small disks (108 modules)
 // 2500 um^2 pixels everywhere
 
+// test
+
 Materials FPIX_disk {
   type layer
   matSubdetectorName FPIX_1
